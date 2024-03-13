@@ -5,8 +5,7 @@ import Home from '../pages/Home';
 const Routes = () => {
   return (
     <Router>
-      <Redirect from="/" to="/home" noThrow />
-        <Home path="/home"></Home>
+        <Home path="/padim-source"></Home>
     </Router>
   );
 };
