@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5da780b1.css",
-    "main.js": "/static/js/main.50477409.js",
-    "static/media/detect.jpg": "/static/media/detect.ffba518437acc08bf3c6.jpg",
-    "static/media/PageBanner.jpg": "/static/media/PageBanner.900a7bd50b0eae76e3ad.jpg",
-    "index.html": "/index.html",
-    "main.5da780b1.css.map": "/static/css/main.5da780b1.css.map",
-    "main.50477409.js.map": "/static/js/main.50477409.js.map"
+    "main.css": "/padim-source/static/css/main.34eedd7c.css",
+    "main.js": "/padim-source/static/js/main.f6b21395.js",
+    "static/media/detect.jpg": "/padim-source/static/media/detect.ffba518437acc08bf3c6.jpg",
+    "static/media/PageBanner.jpg": "/padim-source/static/media/PageBanner.900a7bd50b0eae76e3ad.jpg",
+    "index.html": "/padim-source/index.html",
+    "main.34eedd7c.css.map": "/padim-source/static/css/main.34eedd7c.css.map",
+    "main.f6b21395.js.map": "/padim-source/static/js/main.f6b21395.js.map"
   },
   "entrypoints": [
-    "static/css/main.5da780b1.css",
-    "static/js/main.50477409.js"
+    "static/css/main.34eedd7c.css",
+    "static/js/main.f6b21395.js"
   ]
 }
